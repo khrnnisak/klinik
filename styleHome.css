@@ -1,0 +1,137 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: white;
+    font-family:  'Open Sans' , sans-serif;
+}
+.hd{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(83, 171, 243);
+}
+.hd img{
+    width: 90px;
+    height: 90px;
+    float: left;
+    margin-top: 5px;
+}
+.hd .btn{
+    margin-top: 25px;
+    margin-right: 50px;
+    float: right;
+    background-color: #dab111;
+    width: 140px;
+    height: 50px;
+    font-size: 16px;
+    border: none;
+    padding-top: 15px;
+}
+.hd .btn a{
+    color: black;
+}
+.hdr{
+    width: 100%;
+    height: 25px;
+    margin-top: 20px;
+    background-color: #c4c8ed;
+    text-align: center;
+}
+.content{
+
+}
+.content .btnleft{
+    border: none;
+    background-color: dab111;
+    margin-top: 100px;
+    margin-left: 122px;
+}
+.content .btnleft a{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(83, 171, 243);
+    float: left;
+    border: none;
+    color: white;
+    padding-top: 25%;
+}
+.content .btnleft a:hover{
+    opacity: 55%;
+}  
+.content .antri{
+    width: 650px;
+    height: 410px;
+    position: absolute;
+    background-color: white;
+    margin-top: 180px;
+    margin-left: 320px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    text-align: center;
+} 
+.content .antri .hd{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(32, 115, 194);
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+.content .antri .box{
+    width: 350px;
+    height: 180px;
+    background-color: rgb(9, 88, 119);
+    color: white;
+    text-align: center;
+    font-size: 120px;
+    margin-top: 30px;
+    margin-left: 150px;
+    padding-top: 0px;
+}
+.content .antri .box p{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+    font-family:Roboto;
+}
+
+.content .ft{
+    margin-top: 150px;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(83, 171, 243);
+    text-align: center;
+    padding-top: 15px;
+}
+.footer{
+    margin-top: 150px;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(83, 171, 243);
+    text-align: center;
+    padding-top: 15px;
+}
+.tabel{
+    margin-top: 100px;
+    margin-bottom: 280px;
+    text-align: center;
+}
+.btnadd{
+    float: right;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.btnadd a{
+    color: black;
+}
+
+.btnedit{
+    text-align: center;
+    margin: 0px;
+}
+
+.btnedit a{
+    color: black;
+}
+
